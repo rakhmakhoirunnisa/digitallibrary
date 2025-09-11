@@ -9,6 +9,7 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 3. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
+5. [Syahadat Cinta](ebook/Syahadat cinta.pdf) - Taufiqurrahman Al-Azizy (2006) 
    
 ---
 
