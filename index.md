@@ -11,6 +11,7 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
 5. [Syahadat Cinta](ebook/Syahadat cinta.pdf) - Taufiqurrahman Al-Azizy (2006)
 6. [Edensor](ebook/Edensor.pdf) - Andrea Hirata (2007)
+7. [Royan Revolusi](ebook/Royan Revolusi.pdf) - Ramadhan K.H. (1968)
    
 ---
 
