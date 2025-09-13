@@ -12,6 +12,7 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [Syahadat Cinta](ebook/Syahadat cinta.pdf) - Taufiqurrahman Al-Azizy (2006)
 6. [Edensor](ebook/Edensor.pdf) - Andrea Hirata (2007)
 7. [Royan Revolusi](ebook/Royan Revolusi.pdf) - Ramadhan K.H. (1968)
+8. [Yang Fana Adalah Waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
    
 ---
 
