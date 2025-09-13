@@ -13,6 +13,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Edensor](ebook/Edensor.pdf) - Andrea Hirata (2007)
 7. [Royan Revolusi](ebook/Royan Revolusi.pdf) - Ramadhan K.H. (1968)
 8. [Yang Fana Adalah Waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
+9. [Malam Terakhir](ebook/Malam Terakhir.pdf) -  Leila S. Chudori (2009)
    
 ---
 
