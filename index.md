@@ -15,6 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Yang Fana Adalah Waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
 9. [Malam Terakhir](ebook/Malam Terakhir.pdf) -  Leila S. Chudori (2009)
 10. [Bumi Manusia](ebook/Bumi Manusia.pdf) - Pramoedya Ananta Toer (2002)
+11. [Ringkasan Virtual Reality](ebook/Ringkasan Virtual Reality.pdf) - Rakhma Khoirun Nisa (2025)
    
 ---
 
