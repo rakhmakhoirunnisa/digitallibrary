@@ -16,7 +16,7 @@ Berikut ini adalah koleksi yang dimiliki:
 9. [Malam Terakhir](ebook/Malam Terakhir.pdf) -  Leila S. Chudori (2009)
 10. [Bumi Manusia](ebook/Bumi Manusia.pdf) - Pramoedya Ananta Toer (2002)
 11. [Ringkasan Virtual Reality](ebook/Ringkasan Virtual Reality.pdf) - Rakhma Khoirun Nisa (2025)
-   
----
 
+---
+[Halaman 1](webti.halaman1.html)
 *Powered by Github Pages*
